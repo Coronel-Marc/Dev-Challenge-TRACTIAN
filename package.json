@@ -1,0 +1,23 @@
+{
+  "name": "dev-challenge",
+  "version": "1.0.0",
+  "description": "CRUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coronel-Marc/Dev-Challenge-TRACTIAN.git"
+  },
+  "keywords": [
+    "TRACTIAN",
+    "FullStack"
+  ],
+  "author": "Marcos Gabriel F L Jorge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coronel-Marc/Dev-Challenge-TRACTIAN/issues"
+  },
+  "homepage": "https://github.com/Coronel-Marc/Dev-Challenge-TRACTIAN#readme"
+}

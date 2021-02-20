@@ -2,6 +2,13 @@ const express = require('express')
 const app = express()
 const bodyParser = require('body-parser')
 
+const MongoClient = require('mongodb').MongoClient
+const uri = ""
+
+MongoClient.connect(uri, (err, client)=>{
+    //...start the server
+})
+
 app.set('view engine','ejs')
 
 app.use(bodyParser.urlencoded({
